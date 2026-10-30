@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T10:07:10.421Z",
+  "generated_at": "2026-10-30T10:11:52.917Z",
   "items": {
     "problem:46": {
       "kind": "problem",
@@ -105,6 +105,17 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-10-30T10:07:10.073Z",
       "last_pushed_at": "2026-10-30T10:07:10.073Z"
+    },
+    "math:16": {
+      "kind": "math",
+      "id": "16",
+      "title": "Eigendecomposition and SVD",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/16",
+      "path": "math/0016-eigendecomposition-and-svd",
+      "first_solved_at": "2026-10-30T10:11:52.379Z",
+      "last_pushed_at": "2026-10-30T10:11:52.379Z"
     }
   }
 }
